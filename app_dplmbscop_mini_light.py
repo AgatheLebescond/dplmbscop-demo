@@ -1,4 +1,4 @@
-app_dplmbscop_mini_light.py
+
 # Timport streamlit as st
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
