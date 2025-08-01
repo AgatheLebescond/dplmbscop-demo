@@ -1,7 +1,7 @@
 # Hackathon 2
 #Exercice 3  
 #experimentation en cours.....
-# DplmbScop – Mini Prototype IA Citoyenne dans le cadre de la pétition demandant l'abrogation de la loi Duplomb
+# DuplombScoop – Mini Prototype IA Citoyenne dans le cadre de la pétition demandant l'abrogation de la loi Duplomb
 
 Ce prototype Streamlit permet de :
 - Scraper les tweets sur un sujet (ex: #LoiDuplomb)
